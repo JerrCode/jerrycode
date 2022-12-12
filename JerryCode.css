@@ -1,0 +1,18 @@
+h1, h3, hr {
+    text-align: center;
+    text-transform: uppercase;
+    background-color: midnightblue;
+}
+
+.introduction {
+    background-color: orangered;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1px;
+    font-weight: bolder;
+}
+
+body {
+    background-color: midnightblue;
+}
